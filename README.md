@@ -11,4 +11,4 @@
 Когда закончится, Вы можете запустить снова для добавления пользователей или удалить OpenVPN.
 
 ### Я хочу запустить VPN, но у меня нет сервера
-Вы можете купить дешевый VPN за $1/месяц на [VirMach](https://billing.virmach.com/aff.php?aff=4109&url=billing.virmach.com/cart.php?gid=1).
+Вы можете купить дешевый VPN за $1/месяц на [VDSina](https://vdsina.ru/?partner=smxjus87f3).
